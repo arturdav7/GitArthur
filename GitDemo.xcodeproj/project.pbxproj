@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C99834CF26821558008B9254 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C99834CE26821558008B9254 /* .gitignore */; };
+		C99834D026821558008B9254 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C99834CE26821558008B9254 /* .gitignore */; };
 		C9E7E480268140BE00519A30 /* GitDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9E7E46D268140BD00519A30 /* GitDemoApp.swift */; };
 		C9E7E481268140BE00519A30 /* GitDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9E7E46D268140BD00519A30 /* GitDemoApp.swift */; };
 		C9E7E482268140BE00519A30 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9E7E46E268140BD00519A30 /* ContentView.swift */; };
@@ -16,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C99834CE26821558008B9254 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		C9E7E46D268140BD00519A30 /* GitDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoApp.swift; sourceTree = "<group>"; };
 		C9E7E46E268140BD00519A30 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C9E7E46F268140BE00519A30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -47,6 +50,7 @@
 		C9E7E467268140BD00519A30 = {
 			isa = PBXGroup;
 			children = (
+				C99834CE26821558008B9254 /* .gitignore */,
 				C9E7E46C268140BD00519A30 /* Shared */,
 				C9E7E476268140BE00519A30 /* iOS */,
 				C9E7E47D268140BE00519A30 /* macOS */,
@@ -168,6 +172,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C99834CF26821558008B9254 /* .gitignore in Resources */,
 				C9E7E484268140BE00519A30 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -176,6 +181,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C99834D026821558008B9254 /* .gitignore in Resources */,
 				C9E7E485268140BE00519A30 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
