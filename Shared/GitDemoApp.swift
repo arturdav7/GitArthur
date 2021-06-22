@@ -8,6 +8,7 @@
 import SwiftUI
 
 @main
+var number = 1;
 struct GitDemoApp: App {
     var body: some Scene {
         WindowGroup {
