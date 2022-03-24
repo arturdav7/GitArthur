@@ -18,6 +18,7 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
         var number = 1;
+        var car = "Porsche";
         
     }
 }
